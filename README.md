@@ -4,6 +4,14 @@ This project uses a custom-trained [YOLOv8](https://github.com/ultralytics/ultra
 
 ---
 
+ 🗂 Dataset
+The dataset is a curated combination of open-source people detection datasets, originally annotated in CSV format and then converted to YOLO format.
+
+- Source: [[Roboflow People Detection Dataset](https://www.kaggle.com/datasets/adilshamim8/people-detection)
+- Classes: `person` only
+- Format: Converted from CSV to YOLOv5 format
+
+---
 
  🚀 Features
 
