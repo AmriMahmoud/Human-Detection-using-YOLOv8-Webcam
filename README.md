@@ -30,6 +30,7 @@ If you're using a compatible NVIDIA GPU, ensure the following:
 ## To check if YOLOv8 is using the GPU:
 
   import torch
+  
   print(torch.cuda.is_available())  # Should return True
 
 
